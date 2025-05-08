@@ -233,6 +233,22 @@ main {
     margin-bottom: 1rem;
 }
 
+
+/* Portfolio Explanation...only visible on home screen */
+
+.portfolio-explanation-wrapper {
+    width: 100%;
+    padding: 1rem;
+}
+
+.portfolio-explanation-container {
+    width: 100%;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+
+
 /* E-commerce Web App Project Page */
 
 .project-wrapper {
